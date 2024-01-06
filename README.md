@@ -5,6 +5,8 @@ This GitHub repository contains a Python project for predicting diabetes using a
 
 ## Dataset
 The dataset used in this project is loaded from a CSV file ('diabetes.csv') and includes columns such as 'Pregnant', 'Glucose', 'BP' (Blood Pressure), 'Skin', 'Insulin', 'BMI' (Body Mass Index), 'Pedigree', 'Age', and 'label' (target variable indicating diabetes presence or absence).
+![Screenshot (2)](https://github.com/TechZainShahzad/DecisionTree_Classification/assets/136337895/02c75dbe-47fb-4673-8abc-a4b2b3edc96f)
+
 
 ## Project Structure
 - **diabetes_classification.ipynb**: Jupyter Notebook containing the code for the Decision Tree Classification project.
@@ -15,7 +17,9 @@ The dataset used in this project is loaded from a CSV file ('diabetes.csv') and 
 - Features and labels are defined based on the dataset columns.
 - The dataset is split into training and testing sets using the `train_test_split` function from scikit-learn.
 - A Decision Tree Classifier is employed to train the model on the training data.
-- The accuracy of the model is evaluated using the `accuracy_score` metric from scikit-learn.
+- The accuracy of the model is evaluated using the `accuracy_score` metric from scikit-learn.\
+![Screenshot (1)](https://github.com/TechZainShahzad/DecisionTree_Classification/assets/136337895/0d23c0fc-cddb-47e9-9116-16f30b3e96c6)
+
 
 ## Getting Started
 1. Clone the repository to your local machine.
